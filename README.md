@@ -40,6 +40,9 @@ The dataset includes the following columns:
 - JobTenure: Job duration
 - NetWorth: Total financial worth
 - BaseInterestRate: Starting interest rate
+
+
+For more info: https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval/data
 - InterestRate: Applied interest rate
 - MonthlyLoanPayment: Monthly loan payment
 - TotalDebtToIncomeRatio: Total debt against income
